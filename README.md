@@ -8,5 +8,6 @@ SQLite database
 Bootstrap front-end framework
 
 Acknowledgments:
+The project is created by following the tutorial at https://www.youtube.com/watch?v=1YoD0fg3_EM and making some custom changes.
 The book recommendation algorithm is based on collaborative filtering techniques.
 The book data used in the project can be found in https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset
